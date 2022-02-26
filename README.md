@@ -10,9 +10,9 @@
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div> 
  
- <div>
+ <!--div>
   <a href="https://github.com/ThiagoBmg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBmg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBmg&layout=compact&langs_count=7&theme=dark"/>
- <!-- ![Snake animation](https://github.com/ThiagoBmg/ThiagoBmg/output/github-contribution-grid-snake.svg) -->
-</div>
+ <!-- ![Snake animation](https://github.com/ThiagoBmg/ThiagoBmg/output/github-contribution-grid-snake.svg) 
+</div--!>
