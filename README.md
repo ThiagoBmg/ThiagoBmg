@@ -7,5 +7,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBmg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBmg&layout=compact&langs_count=7&theme=dark"/>
   ![Snake animation](https://github.com/ThiagoBmg/ThiagoBmg/blob/output/github-contribution-grid-snake.svg)
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/ThiagoBmg/ThiagoBmg/output/github-contribution-grid-snake.svg)
+  ![github contribution grid snake animation](https://github.com/ThiagoBmg/ThiagoBmg/output/github-contribution-grid-snake.svg)
 </div>
