@@ -13,7 +13,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-339933?style=flat-square&logo=qt&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-E34F26?style=flat-square&logo=c#&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
