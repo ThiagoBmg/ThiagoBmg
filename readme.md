@@ -4,7 +4,6 @@
 - 🌱 Cursando Ciência da Computação na Faculdade FEI.
 - 📫 th.bmg5274@gmail.com 
 - @thigomeess
-- 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
