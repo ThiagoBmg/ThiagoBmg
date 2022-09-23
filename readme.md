@@ -6,7 +6,7 @@
 - @thigomeess
 
 
-![Java](https://img.shields.io/badge/-Java-339933?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-b1a997?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-339933?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-339933?style=flat-square&logo=html5&logoColor=white)
