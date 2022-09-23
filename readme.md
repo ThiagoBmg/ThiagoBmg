@@ -18,8 +18,8 @@
 ![c](https://img.shields.io/badge/C-b1a997?style=flat-square&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/React-b1a997?style=flat-square&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-b1a997?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/git%20-%b1a997.svg?&style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter%20-%b1a997.svg?&style=flat-square&logo=Jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-b1a997svg?&style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20-b1a997.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-b1a997?style=flat-square&logo=Arduino&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-b1a997?style=flat-square&logo=Arduino&logoColor=white)
 
